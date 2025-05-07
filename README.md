@@ -1,6 +1,6 @@
 
-=======
-# Project-Team-9(Student Schedule Organizer)
+# Student Schedule Organizer
+![User Image 793x597](https://github.com/user-attachments/assets/7e7efe77-1cef-460d-8f85-c530a08e840f)
 
 
 ## Overview
